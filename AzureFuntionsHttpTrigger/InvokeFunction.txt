@@ -1,0 +1,8 @@
+[url]?[Parameter]=[Value]
+http://localhost:7071/api/GetDateFromErp?netprice1=100&netprice2=50
+
+
+
+Secret Key
+[url]?[Parameter]=[Value]&code=[key]
+secretkey -> &code=[key]
